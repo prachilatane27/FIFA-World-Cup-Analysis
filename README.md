@@ -1,28 +1,46 @@
-# FIFA World Cup 2022 Performance Analysis
+# FIFA World Cup 2022 Performance Analysis Dashboard
 
 ## Project Overview
 
-This project analyzes team performance in the FIFA World Cup 2022 using Python and Power BI. It identifies overperforming and underperforming teams based on FIFA rankings and historical performance.
+This project analyzes team performance in the FIFA World Cup 2022 using Python and Power BI. The goal is to evaluate how teams performed relative to expectations based on FIFA rankings and historical performance.
 
-## Objectives
+---
 
-* Analyze host country performance over time
-* Identify overachieving and underperforming teams
-* Study Argentina’s path to victory
-* Compare ranking vs actual performance
+## Key Questions Answered
 
-##  Tools Used
+1. How have host countries performed historically? Did Qatar follow the trend?
+2. Which teams overperformed and underperformed in 2022?
+3. How does Argentina’s path to victory compare to past winners?
+4. Does FIFA ranking strongly influence performance?
+5. How competitive was the 2022 World Cup?
 
-* Python (Pandas, Seaborn, Matplotlib)
-* Power BI
-* DAX
+---
+
+## Tools & Technologies
+
+* Python (Pandas, NumPy, Seaborn, Matplotlib)
+* Power BI (DAX, Dashboard Design)
+
+---
+
+##  Key Features of Dashboard
+
+* KPI Cards (Performance Metrics)
+* Bar Chart (Team Performance Comparison)
+* Scatter Plot (FIFA Ranking vs Performance)
+* Winner Trend Analysis (Dominance Index)
+* Interactive Filters (Group-wise Analysis)
+
+---
 
 ## Key Insights
 
-* Lower-ranked teams overperformed expectations
-* Top-ranked teams underperformed
-* Performance is not strictly dependent on FIFA ranking
-* Argentina showed consistent performance
+* Several lower-ranked teams outperformed expectations
+* Top-ranked teams such as Belgium and France underperformed
+* Weak correlation between FIFA ranking and actual performance
+* Argentina showed consistent and resilient performance
+
+---
 
 ## Files Included
 
@@ -31,6 +49,14 @@ This project analyzes team performance in the FIFA World Cup 2022 using Python a
 * FIFA_World_Cup_Analysis.ipynb
 * Power BI Dashboard (.pbix)
 
-## Conclusion
+---
 
-The 2022 World Cup showed that performance is unpredictable and not fully dependent on rankings.
+##  Conclusion
+
+The FIFA World Cup 2022 highlighted the evolving competitiveness of global football, where rankings alone are not strong predictors of success.
+
+---
+
+## 🔗 Project Link
+
+👉 https://github.com/prachilatane27/FIFA-World-Cup-Analysis
